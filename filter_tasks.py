@@ -1,10 +1,4 @@
 
-# ─────────────────────────────────────────────
-# 3. filter_tasks() WITH **kwargs
-# ─────────────────────────────────────────────
-
-
-
 tasks = [
     {"title": "Fix login bug",    "status": "open",   "owner": "Hasan"},
     {"title": "Write unit tests", "status": "closed", "owner": "Ali"},
